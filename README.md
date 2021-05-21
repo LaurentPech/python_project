@@ -1,9 +1,7 @@
 # Server Monitoring Script
 
 - KANY Kevin
-
-[![GitHub license](https://img.shields.io/github/license/mfsoftworks/Server-Monitoring-Script.svg)](https://github.com/mfsoftworks/Server-Monitoring-Script/blob/master/LICENSE.md) [![Build Status](https://travis-ci.com/mfsoftworks/Server-Monitoring-Script.svg?branch=master)](https://travis-ci.com/mfsoftworks/Server-Monitoring-Script)
-[![Code Coverage](https://codecov.io/gh/mfsoftworks/Server-Monitoring-Script/branch/master/graphs/badge.svg)](https://codecov.io/gh/mfsoftworks/Server-Monitoring-Script) ![GitHub Size](https://img.shields.io/github/repo-size/mfsoftworks/Server-Monitoring-Script.svg)
+- PECH Laurent
 
 ## Purpose
 
