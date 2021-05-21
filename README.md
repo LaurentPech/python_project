@@ -2,6 +2,7 @@
 
 - KANY Kevin
 - PECH Laurent
+- BRETAGNOLLE Guillaume
 
 ## Purpose
 
