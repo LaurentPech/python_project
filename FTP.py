@@ -1,3 +1,5 @@
+#Laurent test un script
+
 import ftplib as ftp # on importe le module et on la renomme juste pour le script en "ftp"
  
 commands = {} # on crée le dictionnaire qui contiendra toutes les commandes &amp; descriptions
