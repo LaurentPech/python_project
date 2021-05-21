@@ -11,7 +11,7 @@ def connection(value=None):
         connection.value = value
         return value
  
-def ftpcommand(nom_court, description): # fonction pour ajouter la fonction au dictionnaire commands
+def ftpcommand(nom_court, description): # fonction pour ajouter la fonction au dictionnaire commands blablabla
     def decorator(function):
         global commands # on n'oublie pas de mettre le dico commands global, sinon ça va en redéfinir un
         commands[nom_court] = (function, description) # on ajoute au dictionnaire
